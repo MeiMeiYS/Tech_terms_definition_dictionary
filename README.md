@@ -109,13 +109,16 @@
 
 ## P-
 
-### zpagination
+### pagination
 - Pagination, also known as paging, is the process of dividing a document into discrete pages, either electronic pages or printed pages.
 - Electronic pages displayed on a web browser are often called web pages, regardless of whether they are accessed online via a web server on the World Wide Web, or stored locally offline. More accurately, such documents are named by the markup language that makes them displayable via a web browser, e.g. "HTML page" or "PHP page".
 - With dynamic web pages, pagination is used for such things as displaying a limited number of results on search engine results pages, or showing a limited number of posts when viewing a forum thread.
 - Pagination is used in some form in almost every web application to divide returned data and display it on multiple pages within one web page. Pagination also includes the logic of preparing and displaying the links to the various pages.
 - Pagination can be handled client-side or server-side.
 - Read more -> https://en.wikipedia.org/wiki/Pagination
+
+### PWA (Progressive web application)
+- A progressive web application (PWA), commonly known as a progressive web app, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript, and WebAssembly. It is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices.
 
 ### Pub/Sub Messaging
 - Publish/subscribe messaging, or pub/sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic.
